@@ -1,3 +1,3 @@
 # MCQ-Game-with-C-
 
-Saveboth of files same directory  then enjoy the game!
+Save all files same directory  then enjoy the game!
