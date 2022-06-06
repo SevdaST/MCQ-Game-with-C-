@@ -1,0 +1,60 @@
+SORU 1 : Bir basketbol potasýnýn inç cinsinden çapý nedir?
+A)20inç		B)23inç		C)18inç		D)21inç
+CEVAP:C
+SORU 2 : Olimpiyatlar kaç yýlda bir yapýlýyor?
+A)4  		B)5  		C)6  		D)7
+CEVAP:A
+SORU 3 : Kanada'nýn ulusal sporu nedir?
+A)Basketbol	B)Beyzbol	C)BuzHokey	D)Lakros
+CEVAP:D
+SORU 4 : Ortalama bir golf topunun kaç çukuru vardýr?
+A)350		B)336		C)403		D)380
+CEVAP:B
+SORU 5 : Motor yarýþlarýnda kazananý belirtmek için salladýklarý bayrak ne renk?
+A)Damalý Bayrak		B)Kýrmýzý Bayrak	C)Sarý Çizgili Bayrak		D)Yeþil Bayrak
+CEVAP:A
+SORU 6 : Futbolda kale direkleri ne renk?
+A)Beyaz		B)Kýrmýzý	C)Sarý		D)Siyah
+CEVAP:A
+SORU 7 : Bir beyzbol takýmýnda kaç oyuncu var?
+A)9		B)11		C)13		D)10
+CEVAP:A
+SORU 8 : 68 kiloda 2011 Dünya þampiyonu olan tekvandocumuz kimdir?
+A)Mevlüt Pekcan		B)Emirhan Muran		C)Namýk Konanç		D)Servet Tazegül
+CEVAP:D
+SORU 9 :Hentbol oyununda bir takýmda kaç kiþi olmaktadýr?
+A)9		B)7		C)6		D)5
+CEVAP:B
+SORU 10 : "Asimetrik paralel" kategorisinde mücadele eden bir kadýn sporcu hangi dalda yarýþýyordur?
+A)Atletizm      B)Jimnastik    C)Gülle Atma    D)Binicilik
+CEVAP:B
+SORU 11 : "Asimetrik paralel" kategorisinde mücadele eden bir kadýn sporcu hangi dalda yarýþýyordur?
+A)Atletizm     B)Jimnastik     C)Gülle Atma    D)Binicilik
+CEVAP:B
+SORU 12 : Hangi sporda topa vurmak için sopa kullanýlmaz?
+A)Golf    	B)Amerikan Futbolu    	C)Bilardo   		 D)Beyzbol
+CEVAP:B
+SORU 13 : Basketbolda oyun baþýnda yapýlan hava atýþýna genelde hangi oyuncular çýkar?
+A)Kaptanlar    		B)En Baþarýlýlar   	 C)En Skorer Olanlar    	D)En Uzun Boylular
+CEVAP:D
+SORU 14 : Forehand ve backhand hangi sporda topa vuruþ þekilleridir?
+A)Tenis    	B)Golf    		C)Bilardo    		D)Bowling
+CEVAP:A
+SORU 15 : Pinpon hangi branþýn diðer adýdýr?
+A)Golf    	B)Masa Tenisi    	C)Dart    		D)Badminton
+CEVAP:B
+SORU 16 : Wimbledon Tenis Turnuvasý hangi ülkede yapýlýr?
+A)Fransa    	B)Avusturya    		C)Amerika    		D)Ýngiltere
+CEVAP:D
+SORU 17 : Sporun herhangi bir dalýnda, bir dereceye ulaþýp bu dereceyi tekrarlamaya ne denir?
+A)Diskalifiye    	 B)Egale   		 C)Rekor    		D)Fodepar
+CEVAP:B
+SORU 18 : Futbolda penaltý atýþ noktasý ile kale arasýndaki mesafe ne kadardýr?
+A)11             	B)13       		C)14      			 D)12
+CEVAP:A
+SORU 19 :  Bisiklet yarýþlarýnýn stadyum içinde yapýlan kýsmýna ne ad verilir?
+A)Suvenyor	B)Veledrom    		C)Grupetto    		D)Fodepar
+CEVAP:B
+SORU 20 : Ben sporcunun ........,çevik ayný zamanda ........ severim.Boþuklara hangi kelimeler gelmelidir?
+A)Çalýþkan-Hýrslý   B)Zeki-Ahlaklýsýný   C)Baþarýlý-Hýzlý   D)Güçlü-Kaslý
+CEVAP:B
